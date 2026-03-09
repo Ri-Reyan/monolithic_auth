@@ -179,5 +179,4 @@ See [API Documentation](./API.md) for detailed endpoint information.
 
 ## License
 
-ISC</content>
-<parameter name="filePath">/home/reyan/Dev/workshop/websites/aspirex/backend/docs/README.md
+REYAN
